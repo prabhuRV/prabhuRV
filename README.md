@@ -4,7 +4,7 @@
 
 <h2>:mailbox: Reach me out!</h2>
 
-[![Twitter Badge](https://www.linkedin.com/in/prabhu-k-9843941a4?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://www.linkedin.com/in/prabhu-k-9843941a4)](Prabhu)   [![Mail Badge](https://img.shields.io/badge/-kosireddiSreeram-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:katravthprabhu151@.com)
+[![Twitter Badge](https://www.linkedin.com/in/prabhu-k-9843941a4?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://www.linkedin.com/in/prabhu-k-9843941a4)](https://www.linkedin.com/in/prabhu-k-9843941a4)   [![Mail Badge](https://img.shields.io/badge/-kosireddiSreeram-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:katravthprabhu151@.com)
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 📫 How to reach me: katravthprabhu151@.com.
   
