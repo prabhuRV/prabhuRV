@@ -1,4 +1,4 @@
-<h1 align="center"> Hi I'm   katravth Prabhu </h1>
+<h1 align="center"> Hi I'm   Katravath Prabhu </h1>
 
 <b>I am  Prabhu,web designer,UI/UX developer and hands on full stack web development using Javascript and React.</b>
 
