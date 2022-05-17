@@ -21,7 +21,7 @@
 
 #### Github Stats
 
-![kosireddi sreeram's github stats](https://github-readme-stats.vercel.app/api?username=prabhuRV&count_private=true&theme=tokyonight)
+![Katravath Prabhu's github stats](https://github-readme-stats.vercel.app/api?username=prabhuRV&count_private=true&theme=tokyonight)
 
 
 
