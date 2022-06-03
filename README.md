@@ -1,28 +1,114 @@
-<h1 align="center"> Hi I'm   Katravath Prabhu </h1>
+# Hello World!, I am Katravth Prabhu 👋
+### Welcome to my github profile.
 
-<b>I am  Prabhu,web designer,UI/UX developer and hands on full stack web development using Javascript and React.</b>
+<img src = "https://cdn.dribbble.com/users/140227/screenshots/6430073/isometric-computer.gif" width ="700px" alt ="Prabhu is coding!!" align = "middle"></img>
+<br />
+<!-- ![](https://camo.githubusercontent.com/e95508d1d417e64aaa73df8f096ab766634ca921/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d7361696b617462697368616c266c6162656c3d50726f66696c652b56696577732b546f646179) -->
 
-<h2>:mailbox: Reach me out!</h2>
-
-<!-- [![Twitter Badge](https://www.linkedin.com/in/prabhu-k-9843941a4?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://www.linkedin.com/in/prabhu-k-9843941a4)](https://www.linkedin.com/in/prabhu-k-9843941a4)   [![Mail Badge](https://img.shields.io/badge/-kosireddiSreeram-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:katravthprabhu151@.com) -->
-- :computer: Most used line of code `git commit -m "Initial Commit"`
-- 📫 How to reach me: katravthprabhu151@.com.
-  
-
-#### Top Technologies
-
-<!-- TODO: Make technologies links takes you to repositories -->
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=fff)](#)  [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=fff)](#)  [![Mongo Badge](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&labelColor=green&logo=MongoDB&logoColor=fff)](#)  [![HTML Badge](https://img.shields.io/badge/-html5-E34F26?style=for-the-badge&labelColor=E34F26&logo=HTML5&logoColor=fff)](#)  [![css3](https://img.shields.io/badge/-css3-1572B6?style=for-the-badge&labelColor=1572B6&logo=CSS3&logoColor=fff)](#)  [![bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&labelColor=7952B3&logo=Bootstrap&logoColor=fff)](#)  ![github Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&labelColor=181717&logo=GitHub&logoColor=fff)
+<img src="https://komarev.com/ghpvc/?username=prabhuRV&label=PEOPLE%20VISIT%20THIS%20PROFILE&color=blueviolet&style=flat-square" alt="prabhu github profil visit" />
 
 
+<br/>
+  <br/>
+- 🌱 Learning to code and of course to live life to the fullest.
+
+- 👯 I’m looking to collaborate on any `JavaScript/ReactJS` or `Web Development` project.
+
+
+- 💬 You can ask me about anything related to `Web Development`, `javaScript`, `reactJs`and `Redux`.
+      
+      
+- 📫 If you want to talk to me feel free to email me at `katravthprabhu151@gmail.com`
+
+- 😄 Pronouns:  He, Him
+
+- ⚡ Fun fact:I love opensource and believe in free education. I give one on one guidance for free.
+
+- 👨‍⚖️ I am currently working at `Larsen and Toubro Infotech Ltd` as Senior Data Engineer.
+- 🙇‍♂️ Languages : `English` `Hindi` `Telugu` `Marathi`
+
+<br />
+<br />
+
+### 📕 Latest Projects
+
+<!-- PROJECT-LIST:START -->
+- [Bath and Body Work]()
+- [Buywow.in]()
+- [Sugar Cosmutic]()
+<!-- PROJECT-LIST:END -->
+
+---
+
+### Technologies
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+
+
+<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
 
 
+<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" href="https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell-core-on-windows?view=powershell-7.1" />
 
-#### Github Stats
+<a href="https://postman.com" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30" margin ="10px"/> </a>
+      <a href="https://git-scm.com/" target="_blank"> <img align ="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a>
+     
+<br/>
+<br/>
 
-![Katravath Prabhu's github stats](https://github-readme-stats.vercel.app/api?username=prabhuRV&count_private=true&theme=tokyonight)
-
-
+### Stats 📈
+<table align="center" cellspacing="0" cellpadding="0" border="0">
+   <tr>
+    <td>
+      <a href="https://github.com/prabhuRV" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api?username=prabhuRV&show_icons=true&include_all_commits=true&theme=ayu-mirage&hide_border=true" alt="prabhu's github stats">
+      <a/>
+    </td>
+    <td>
+      <a href="" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhuRV&theme=ayu-mirage&layout=compact&hide_border=true" alt="prabhu's language stats">
+      <a/>
+    </td>
+   </tr>
+  <tr>
+  <tr>
+    <td>
+      <a href="" target="_blank">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabhuRV&theme=ayu-mirage&hide_border=true" alt="prabhu streak stats">
+      <a/>
+    </td>
+    <td>
+      <a href="" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=prabhuRV&repo=prabhuRV&theme=ayu-mirage&hide_border=true" alt="prabhu GitHub Profile">
+      <a/>
+    </td>
+   </tr>
+</table>
+<p align="center">
+  <a href="" target="_blank">
+    <img alt="My Website" src="https://img.shields.io/badge/Website%20resume%20of%20Prabhu-FF6719?style=for-the-badge&logo=substack&logoColor=white">
+   <a/>
+ 
+  <a href="https://www.linkedin.com/in/prabhu-katravath-9843941a4/" target="_blank">
+    <img alt="Prabhu Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a/>
+  <a href="https://twitter.com/KatravathPrabhu" target="_blank">
+    <img alt="@Prabhu Twitter Follow" src="https://img.shields.io/twitter/follow/thinwhiteframe?style=social">
+  <a/>
+</p>
+        <table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prabhuRV&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+   </tr> 
+   <tr>
+      <td><img src="https://activity-graph.herokuapp.com/graph?username=prabhuRV&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" ></td>
+  </td>
+  </tr>
+</table>
 
 
