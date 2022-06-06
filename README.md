@@ -69,11 +69,16 @@
         <img src="https://github-readme-stats.vercel.app/api?username=PrabhuRV&count_private=true&theme=tokyonight" alt="prabhu's github stats">
       <a/>
     </td>
-    <td>
+         <td>
+      <a href="https://github.com/prabhuRV" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api?username=PrabhuRV&count_private=true&theme=tokyonight" alt="prabhu's github stats">
+      <a/>
+    </td>
+<!--     <td>
       
      <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhuRV&" alt="prabhu" /></p>
       
-    </td>
+    </td> -->
    </tr>
   
 </table>
