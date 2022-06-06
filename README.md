@@ -70,9 +70,9 @@
       <a/>
     </td>
     <td>
-      <a href="" target="_blank">
+      
      <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhuRV&" alt="prabhu" /></p>
-      <a/>
+      
     </td>
    </tr>
   <tr>
@@ -82,16 +82,16 @@
     
     </td>
     <td>
-      <a href="" target="_blank">
+
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=prabhuRV&repo=prabhuRV&theme=ayu-mirage&hide_border=true" alt="prabhu GitHub Profile">
-      <a/>
+   
     </td>
    </tr>
 </table>
 <p align="center">
-  <a href="" target="_blank">
+ 
     <img alt="My Website" src="https://img.shields.io/badge/Website%20resume%20of%20Prabhu-FF6719?style=for-the-badge&logo=substack&logoColor=white">
-   <a/>
+  
  
   <a href="https://www.linkedin.com/in/prabhu-katravath-9843941a4/" target="_blank">
     <img alt="Prabhu Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
