@@ -83,14 +83,14 @@
     </td>
     <td>
 
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=prabhuRV&repo=prabhuRV&theme=ayu-mirage&hide_border=true" alt="prabhu GitHub Profile">
+<!--         <img src="https://github-readme-stats.vercel.app/api/pin/?username=prabhuRV&repo=prabhuRV&theme=ayu-mirage&hide_border=true" alt="prabhu GitHub Profile"> -->
    
     </td>
    </tr>
 </table>
 <p align="center">
  
-    <img alt="My Website" src="https://img.shields.io/badge/Website%20resume%20of%20Prabhu-FF6719?style=for-the-badge&logo=substack&logoColor=white">
+<!--     <img alt="My Website" src="https://img.shields.io/badge/Website%20resume%20of%20Prabhu-FF6719?style=for-the-badge&logo=substack&logoColor=white"> -->
   
  
   <a href="https://www.linkedin.com/in/prabhu-katravath-9843941a4/" target="_blank">
