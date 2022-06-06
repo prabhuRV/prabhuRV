@@ -79,7 +79,6 @@
   <tr>
     <td>
 
-       ![PRabhu github stats](https://github-readme-stats.vercel.app/api?username=PrabhuRV&count_private=true&theme=tokyonight)
     
     </td>
     <td>
