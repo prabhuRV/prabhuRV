@@ -71,7 +71,7 @@
     </td>
     <td>
       <a href="" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhuRV&theme=ayu-mirage&layout=compact&hide_border=true" alt="prabhu's language stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhuR&theme=ayu-mirage&layout=compact&hide_border=true" alt="prabhu's language stats">
       <a/>
     </td>
    </tr>
