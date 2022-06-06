@@ -66,7 +66,7 @@
    <tr>
     <td>
       <a href="https://github.com/prabhuRV" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api?username=prabhuRV&show_icons=true&include_all_commits=true&theme=ayu-mirage&hide_border=true" alt="prabhu's github stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=PrabhuRV&count_private=true&theme=tokyonight" alt="prabhu's github stats">
       <a/>
     </td>
     <td>
