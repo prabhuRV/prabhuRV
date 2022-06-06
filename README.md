@@ -71,7 +71,7 @@
     </td>
     <td>
       <a href="" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhuRV&theme=ayu-mirage&layout=compact&hide_border=true" alt="prabhu's language stats">
+     <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhuRV&" alt="prabhu" /></p>
       <a/>
     </td>
    </tr>
