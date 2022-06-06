@@ -78,9 +78,9 @@
   <tr>
   <tr>
     <td>
-      <a href="" target="_blank">
+
        ![PRabhu github stats](https://github-readme-stats.vercel.app/api?username=PrabhuRV&count_private=true&theme=tokyonight)
-      <a/>
+    
     </td>
     <td>
       <a href="" target="_blank">
