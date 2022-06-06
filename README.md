@@ -75,18 +75,7 @@
       
     </td>
    </tr>
-  <tr>
-  <tr>
-    <td>
-
-    
-    </td>
-    <td>
-
-<!--         <img src="https://github-readme-stats.vercel.app/api/pin/?username=prabhuRV&repo=prabhuRV&theme=ayu-mirage&hide_border=true" alt="prabhu GitHub Profile"> -->
-   
-    </td>
-   </tr>
+  
 </table>
 <p align="center">
  
