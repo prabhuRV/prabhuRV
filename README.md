@@ -79,7 +79,7 @@
   <tr>
     <td>
       <a href="" target="_blank">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?username=prabhuRV&theme=ayu-mirage&hide_border=true" alt="prabhu streak stats">
+       ![PRabhu github stats](https://github-readme-stats.vercel.app/api?username=PrabhuRV&count_private=true&theme=tokyonight)
       <a/>
     </td>
     <td>
