@@ -70,7 +70,7 @@
       <a/>
     </td>
          <td>
-      <a href="https://github.com/prabhuRV" target="_blank">
+      <a href="">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabhuRV&e&" alt="prabhu's github stats">
       <a/>
     </td>
