@@ -94,7 +94,7 @@
     <img alt="Prabhu Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   <a/>
   <a href="https://twitter.com/KatravathPrabhu" target="_blank">
-    <img alt="@Prabhu Twitter Follow" src="https://img.shields.io/twitter/follow/thinwhiteframe?style=social">
+    <img alt="@Prabhu Twitter Follow" src="https://img.shields.io/twitter/follow/thinwhiteframe?style=social" width=100%>
   <a/>
 </p>
         <table>
