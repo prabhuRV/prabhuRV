@@ -1,5 +1,5 @@
 
-# Hi There👋, I am Katravth Prabhu
+# Hi There👋, I am Katravath Prabhu
 
 
 <br />
