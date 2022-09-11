@@ -1,34 +1,41 @@
-# Hello World!, I am Katravth Prabhu 👋
-### Welcome to my github profile.
 
-<img src = "https://cdn.dribbble.com/users/140227/screenshots/6430073/isometric-computer.gif" width ="700px" alt ="Prabhu is coding!!" align = "middle"></img>
+# Hi There👋, I am Katravth Prabhu
+
+
 <br />
-<!-- ![](https://camo.githubusercontent.com/e95508d1d417e64aaa73df8f096ab766634ca921/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d7361696b617462697368616c266c6162656c3d50726f66696c652b56696577732b546f646179) -->
-
 <img src="https://komarev.com/ghpvc/?username=prabhuRV&label=PEOPLE%20VISIT%20THIS%20PROFILE&color=blueviolet&style=flat-square" alt="prabhu github profil visit" />
+
+<p align="justify">An aspiring full-stack web developer specializing in MERN Stack.
+Skilled, collaborative, and attentive developer with a drive to
+develop the most relevant products with more than five
+collaborative and single personal projects. Willing to learn and work
+across new technologies in the web development domain.
+</p>
+
+<h4>You can see my Resume
+  <a href="https://drive.google.com/file/d/1IyYwsL-4Dz5lFHHjuKJZVXRAj46GXMvl/view?usp=sharing" target="_blank">here</a>.
+</h4>
+
+
+  <samp>
+    <h2 align="left">You Can Reach Me By:</h2>
+    <p align="left">
+      <br/>
+      <a href="https://www.linkedin.com/in/prabhu-katravath-9843941a4/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="prabhu" height="30"/></a>
+      <a href="katravthprabhu151@gmail.com" target="blank"><img align="center"
+         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="prabhu" height="30"/></a>
+      <a href="" target="blank"><img align="center"
+         src="https://img.shields.io/badge/-PORTFOLIO-3423A6?style=flat&logo=Google-Chrome&logoColor=white"
+         alt="prabhu" height="30"/></a>
+    </p>
+  </samp>
+  
 
 
 <br/>
-  <br/>
-- 🌱 Learning to code and of course to live life to the fullest.
-
-- 👯 I’m looking to collaborate on any `JavaScript/ReactJS` or `Web Development` project.
-
-
-- 💬 You can ask me about anything related to `Web Development`, `javaScript`, `reactJs`and `Redux`.
-      
-      
-- 📫 If you want to talk to me feel free to email me at `katravthprabhu151@gmail.com`
-
-- 😄 Pronouns:  He, Him
-
-- ⚡ Fun fact:I love opensource and believe in free education. I give one on one guidance for free.
-
-- 👨‍⚖️ I am currently working at `Larsen and Toubro Infotech Ltd` as Senior Data Engineer.
-- 🙇‍♂️ Languages : `English` `Hindi` `Telugu` `Marathi`
-
-<br />
-<br />
 
 
 
@@ -76,21 +83,7 @@
   </tr>
 </table>
 
-  <samp>
-    <h2 align="left">You Can Reach Me By:</h2>
-    <p align="left">
-      <br/>
-      <a href="https://www.linkedin.com/in/prabhu-katravath-9843941a4/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="prabhu" height="30"/></a>
-      <a href="katravthprabhu151@gmail.com" target="blank"><img align="center"
-         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="prabhu" height="30"/></a>
-      <a href="" target="blank"><img align="center"
-         src="https://img.shields.io/badge/-PORTFOLIO-3423A6?style=flat&logo=Google-Chrome&logoColor=white"
-         alt="prabhu" height="30"/></a>
-    </p>
-  </samp>
+
 </div>
      
 
