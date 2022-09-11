@@ -71,7 +71,7 @@
      <tr>
           <td >
            <a href="https://github.com/prabhuRV/prabhuRV">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhuRV&theme=outrun" width="100%" height="300px/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhuRV&theme=outrun" width="100%" height="300px"/>
 </a>
     </td>
    </tr>
