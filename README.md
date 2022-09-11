@@ -45,12 +45,12 @@
    <tr>
     <td>
       <a href="https://github.com/prabhuRV" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api?username=PrabhuRV&count_private=true&theme=tokyonight" alt="prabhu's github stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=PrabhuRV&count_private=true&theme=outrun&show_icons=true" alt="prabhu's github stats">
       <a/>
     </td>
          <td>
       <a href="">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabhuRV&e&" alt="prabhu's github stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabhuRV&theme=outrun" alt="prabhu's github stats">
       <a/>
     </td>
  
@@ -58,7 +58,7 @@
      <tr>
           <td >
            <a href="https://github.com/prabhuRV/prabhuRV">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhuRV&theme=tokyonight" width="100%" height="300px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhuRV&theme=outrun" width="100%" height="300px"/>
 </a>
     </td>
    </tr>
