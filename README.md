@@ -30,15 +30,7 @@
 <br />
 <br />
 
-### 📕 Latest Projects
 
-<!-- PROJECT-LIST:START -->
-- [Bath and Body Work]()
-- [Buywow.in]()
-- [Sugar Cosmutic]()
-<!-- PROJECT-LIST:END -->
-
----
 
 ### Technologies
 
@@ -77,8 +69,9 @@
  
   </tr>
      <tr>
-          <td><a href="https://github.com/prabhuRV">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhuRV&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+          <td >
+           <a href="https://github.com/prabhuRV/prabhuRV">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhuRV&theme=outrun" width="100%" height="300px/>
 </a>
     </td>
    </tr>
