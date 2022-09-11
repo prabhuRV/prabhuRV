@@ -27,7 +27,7 @@ across new technologies in the web development domain.
       <a href="katravthprabhu151@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="prabhu" height="30"/></a>
-      <a href="" target="blank"><img align="center"
+      <a href="https://katravth-prabhu.netlify.app/" target="blank"><img align="center"
          src="https://img.shields.io/badge/-PORTFOLIO-3423A6?style=flat&logo=Google-Chrome&logoColor=white"
          alt="prabhu" height="30"/></a>
     </p>
