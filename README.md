@@ -78,18 +78,23 @@
  
   
 </table>
-<p align="center">
- 
-<!--     <img alt="My Website" src="https://img.shields.io/badge/Website%20resume%20of%20Prabhu-FF6719?style=for-the-badge&logo=substack&logoColor=white"> -->
-  
- 
-  <a href="https://www.linkedin.com/in/prabhu-katravath-9843941a4/" target="_blank">
-    <img alt="Prabhu Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  <a/>
-  <a href="https://twitter.com/KatravathPrabhu" target="_blank">
-    <img alt="@Prabhu Twitter Follow" src="https://img.shields.io/twitter/follow/thinwhiteframe?style=social" width=100%>
-  <a/>
-</p>
+
+  <samp>
+    <h2 align="left">You Can Reach Me By:</h2>
+    <p align="left">
+      <br/>
+      <a href="https://www.linkedin.com/in/prabhu-katravath-9843941a4/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="prabhu" height="30"/></a>
+      <a href="katravthprabhu151@gmail.com" target="blank"><img align="center"
+         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="prabhu" height="30"/></a>
+      <a href="" target="blank"><img align="center"
+         src="https://img.shields.io/badge/-PORTFOLIO-3423A6?style=flat&logo=Google-Chrome&logoColor=white"
+         alt="prabhu" height="30"/></a>
+    </p>
+  </samp>
+</div>
         <table>
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prabhuRV&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
