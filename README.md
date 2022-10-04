@@ -13,7 +13,7 @@ across new technologies in the web development domain.
 </p>
 
 <h4>You can see my Resume
-  <a href="https://drive.google.com/file/d/1IyYwsL-4Dz5lFHHjuKJZVXRAj46GXMvl/view?usp=sharing" target="_blank">here</a>.
+  <a href="https://drive.google.com/file/d/12QnamUOb-Sc7CiUOwGAT6agzJKepn7aQ/view?usp=drivesdk" target="_blank">here</a>.
 </h4>
 
 
